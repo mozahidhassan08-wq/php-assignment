@@ -10,7 +10,7 @@
     <?php
         $name = "Mozahid Hassan";
         $id = "2243081095";
-        $department = "CSE";
+        $department = "computer science";
         $university = "Uttara University";
 
         echo "<h2>Name: $name</h2>";
